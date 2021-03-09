@@ -1,1 +1,1 @@
-Hei, dette er en ny fil. Lagd 09.03.21.
+Hei, dette er en endring gjort i versjon 0.2 av filen.
